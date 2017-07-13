@@ -1,4 +1,4 @@
-module DevcampViewTool
+module VincentViewTool
   # Your code goes here...
   class Renderer
     def self.copyright name, msg
